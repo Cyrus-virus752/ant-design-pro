@@ -44,8 +44,8 @@ We need your help: https://github.com/ant-design/ant-design-pro/issues/120
 - :white_check_mark: **UI Test**: Fly safely with unit and e2e tests
 
 ## Templates
-
-```
+/usr/bin/git config --global --add safe.directory /home/runner/work/silver-invention/silver-invention
+```Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
 - Dashboard
   - Analytic
   - Monitor
